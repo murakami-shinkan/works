@@ -10,9 +10,9 @@
 |F| **GitHub\\_PDF\\_Link** | GitHubリポジトリ内の対応するPDFへの直接リンク | `https://github.com/murakami-shinkan/works/blob/main/paper-075.pdf` |
 |G| **INBUDS\\_ArticleID** | INBUDSに収録済みの場合、その論文識別コード | `0-001234-5678` |
 |H| **INBUDS\\_MediaID** | INBUDSに収録済みの場合、その媒体識別コード | `1234-5678` |
-|I| **ArticleType** | INBUDSの論文種別コード1:論文, 2:論文翻訳, 6:書評など | `1` |
-|J| **Language** | INBUDSの使用言語コード1:日本語, 2:英語, 7:サンスクリット語など | `2` |
-|K| **AuthorshipType** | INBUDSの執筆区分コード1:著, 2:共著, 5:編など | `1` |
+|I| **ArticleType** | INBUDS執筆区分コード１: 論文, ２: 論文翻訳, ３: 原典校訂, ４: 原典翻訳, ５: 目録・索引, ６: 書評, ７: 報告, ８: 対談・シンポジウム・座談会, ９: 講演, 10: 伝記・死亡記事, 11: その他 | `1` |
+|J| **Language** | INBUDS使用言語コード１: 日本語, ２: 英語, ３:フランス語, ４: ドイツ語, ５: 中国語, ６: 韓国語, ７: サンスクリット語, ８: チベット語, ９: 漢文, 10: その他| `2` |
+|K| **AuthorshipType** | INBUDS執筆区分コード１: 著, ２: 共著, ３: 訳, ４: 共訳, ５: 編, ６: 共編,　7: 監修| `1` |
 |L| **Author\\_FamilyName** | 筆者の姓（漢字） | `村上` |
 |M| **Author\\_FirstName** | 筆者の名（漢字） | `真完` |
 |N| **Author\\_FamilyName\\_Roman** | 筆者の姓（ローマ字） | `Murakami` |
